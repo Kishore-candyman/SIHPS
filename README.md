@@ -1,7 +1,7 @@
 # Smart India Hackathon Workshop
-# Date:
-## Register Number:
-## Name:
+# Date:28-11-2024
+## Register Number:24900763
+## Name: M. KISHORE
 ## Problem Title
 Implementation of the Alumni Association platform for the University/Institute.
 ## Problem Description
@@ -11,14 +11,54 @@ Government of Gujarat
 
 ## Idea
 
+Alumni Directory:
+A searchable database where users can filter alumni by graduation year, industry, location, or field of expertise to promote networking and collaboration.
+
+Networking Hub:
+Chat and messaging options to connect like-minded alumni based on shared interests. Create industry-specific groups and forums for discussions, mentorship opportunities, and collaboration.
+
+Donation Portal:
+Secure donation tools enabling alumni to contribute to scholarships, infrastructure, or events. Real-time tracking of contributions will encourage transparency and build trust.
+
+Job Portal:
+Alumni can share or find job opportunities, post vacancies in their companies, and access internship opportunities tailored to the alumni network.
+
+Success Stories:
+A space to highlight notable alumni achievements, including career milestones, awards, and social contributions, inspiring current students and other alumni.
+
+Events and Reunions:
+Tools for scheduling events like reunions, workshops, or webinars. RSVP functionality ensures seamless event management and engagement.
+
+Feedback and Surveys:
+User-friendly systems to gather feedback, monitor alumni engagement, and shape future programs based on alumni needs.
+
+
+
 
 ## Proposed Solution / Architecture Diagram
 
+![alt text](<Kishore FWAD SIH.png>)
 
 ## Use Cases
-
+![alt text](Ideas.png)
 
 ## Technology Stack
+
+Node.js
+PostgreSQL
+MongoDB
+Flutter (Mobile App)
+OAuth 2.0 (Google/LinkedIn Authentication)
+JWT (Authentication & Session Management)
+Stripe or Razorpay (Payment Gateway)
+Firebase Cloud Messaging (FCM)
+Google Maps API
+AWS or Firebase Hosting
+Socket.io (Real-time Chat)
+Git
+Postman or Insomnia
+Google Analytics
+Cloudinary (For Media Storage)
 
 
 ## Dependencies
